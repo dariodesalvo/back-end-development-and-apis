@@ -1,3 +1,4 @@
 {"name":"fcc-learn-npm-package-json","author":"Darío E. Desalvo",
 	"description": "Certificando conocimientos para mi cv :)",
+	"keywords": [ "freecodecamp", "node", "api" ],
 	"dependencies":{"express":"^4.19.2"},"main":"server.js","scripts":{"start":"node server.js"},"repository":{"type":"git","url":"https://github.com/freeCodeCamp/boilerplate-npm.git"}}
