@@ -1,5 +1,5 @@
-{	"author": "Darío E. Desalvo",
-	"name": "fcc-learn-npm-package-json",
+{	"name": "fcc-learn-npm-package-json",
+	"author": "Darío E. Desalvo",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
