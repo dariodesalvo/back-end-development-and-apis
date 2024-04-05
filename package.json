@@ -5,7 +5,7 @@
 	"license": "MIT",
 	"version": "1.0.0",
 	"dependencies":{
-	"@freecodecamp/example": "1.1.0",
+	"@freecodecamp/example": "~1.2.13",
 	"express":"^4.19.2"
 	},
 	"main":"server.js",
